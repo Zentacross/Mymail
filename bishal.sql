@@ -3,7 +3,7 @@
 -- http://www.phpmyadmin.net
 --
 -- Host: localhost
--- Generation Time: Aug 10, 2017 at 05:31 PM
+-- Generation Time: Aug 14, 2017 at 07:53 AM
 -- Server version: 5.5.8
 -- PHP Version: 5.3.5
 
@@ -44,5 +44,5 @@ CREATE TABLE IF NOT EXISTS `data` (
 --
 
 INSERT INTO `data` (`Serial`, `fname`, `lname`, `id`, `pass`, `dob`, `mf`, `mob`, `otherid`, `nation`) VALUES
-(1, 'Bishal', 'Shaw', 'ZENTACROSS@REDIFFMAIL.COM', 'ZENTACROSS', '12-09-1996', 'Male', '8274814482', 'ZENTACROSS001@GMAIL.COM', 'INDIA'),
-(2, 'Bishal', 'Shaw', 'pim.judo564@gmail.com', 'Bishal@2016', '12-09-1996', 'Male', '7003142061', 'zentacross001@gmail.com', 'India');
+(1, 'Bishal', 'Shaw', 'Bishal@mymail.COM', '123456789', '12-09-1996', 'Male', '8274814482', 'ZENTACROSS001@GMAIL.COM', 'INDIA'),
+(2, 'Bishal', 'Shaw', 'Bishal2@gmail.com', 'password', '12-09-1996', 'Male', '7003142061', 'zentacross001@gmail.com', 'India');
